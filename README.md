@@ -16,6 +16,8 @@ A cross-platform **mobile application built with Flutter** that connects people 
 - 📱 **Cross-Platform** – Runs on Android and iOS  
 
 ---
+<img width="4828" height="1994" alt="Skill Swap Platform - 8 hours" src="https://github.com/user-attachments/assets/0405c53c-b55e-4ce8-8832-3a8a222609ab" />
+
 <img width="2048" height="970" alt="image" src="https://github.com/user-attachments/assets/76fc5b30-f706-41fb-8ee0-2a5ca46ed6ce" />
 
 Project Structure
